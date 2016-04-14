@@ -1,0 +1,189 @@
+
+@media (max-width:480px) {
+    #jumboContent {
+        font-size: 100%;
+    }
+
+    #jumboSet {
+        position: relative;
+        top: 13px;  
+        margin: 0 auto;
+        background-blend-mode:overlay;
+        opacity: 0.85;
+        max-height: 400px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: .5px;
+        padding-top: 5px;
+    }
+
+    #header {
+        font-size: 90%;
+        text-align: center;
+    }
+
+    #face {
+        margin: 0 auto;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background-position: center;
+        background-size: cover;
+        background-image: url("../img/me.png");
+    }
+
+}
+.myBrand {
+
+    font-size: 200%;
+    padding-left: 50px;
+}
+
+li {
+    font-size: 120%;
+    padding-right: 5px;
+}
+
+#main {
+
+    position: relative;
+    top: 150px;
+}
+
+#name {
+    font-size: 300%;
+}
+
+#reason {
+    background-color: red;
+    text-align: left;
+    font-size: 120%;
+}
+
+#information {
+    font-size: 100%;
+}
+
+.clear {
+    clear:both;
+}
+
+#mailingList {
+    margin-top: 100px;
+}
+
+#emailInput {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#home {
+    background-image: url("../img/indonesia-3.jpg");
+    
+    width: 100%;
+    padding: 0;
+    background-size: cover;
+}
+
+#main {
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    margin-top: 100px;
+    font-size: 270%;
+
+}
+
+.marginTop {
+    margin-top: 10px;
+}
+
+#contact {
+    width: 100%;
+    background-color: #B0D1FB;
+}
+
+.marginBottom {
+    margin-bottom: 30px;
+}
+
+img {
+    width: 20%;
+}
+
+#logo {
+    padding: 0;
+    margin-top: -28px;
+    width:170px;
+    
+}
+
+#jumboSet {
+    position: relative;
+    top: 15px;  
+    margin: 0 auto;
+    background-blend-mode:overlay;
+    opacity: 0.85;
+   
+    max-height: 400px;
+}
+#face {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/me.png");
+}
+
+#intro {
+    position: relative;
+    top: 45px;
+}
+
+
+#media {
+    margin: 0 auto;
+    width: 235px;
+    height: 60px;
+
+}
+
+.socmediaLogo {
+    height: 40px;
+    width: 65px;
+    float: left;
+    padding-right: 25px;
+
+}
+
+#media-right {
+    height: 40px;
+    width: 40px;
+    float: left;
+   
+}
+
+.paddingBottom {
+    padding-bottom: 10px;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1{
+    padding: 0;
+    font-size: 400%;
+}
+
+#about {
+    width: 200px;
+    background-color: red;
+}
